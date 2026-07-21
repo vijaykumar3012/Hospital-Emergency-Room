@@ -63,6 +63,12 @@ I'm excited to share one of my recent **Power BI Dashboard** projects – a **Ho
 * Understand referral patterns across departments.
 * Improve operational efficiency with real-time insights.
 
-This project demonstrates how **data visualization** can support faster decision-making and improve healthcare operations.
+This project demonstrates how **data visualization** can support faster decision-making and improve healthcare operations
 
-<img width="1372" height="847" alt="Screenshot 2026-07-20 125952" src="https://github.com/user-attachments/assets/d9aac497-8e16-4cc9-980b-d7eacb6a7588" />
+<img width="1373" height="850" alt="Screenshot 2026-07-20 130013" src="https://github.com/user-attachments/assets/2c2ecef5-36ae-4542-afe6-fc80fc21498d" />
+
+<img width="1375" height="848" alt="Screenshot 2026-07-20 125929" src="https://github.com/user-attachments/assets/1e6e2a71-7ec6-4d12-83a9-3239d9d805ca" />
+
+<img width="1373" height="850" alt="Screenshot 2026-07-20 130013" src="https://github.com/user-attachments/assets/6a1a975a-4281-4167-af0c-c04de63c1543" />
+
+
